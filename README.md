@@ -1,2 +1,2 @@
-# This is WDF.
-This is a try to make a side of web, optimized for RTL software development and user/developer-friendly for Farsi native speakers.
+# وب توسعه‌ٔ فارسی
+این تلاشی است برای ایجاد بخشی از وب، بهینه‌سازی شده برای توسعه نرم‌افزار RTL و کاربرپسند/برنامه‌نویس برای فارسی زبانان بومی.
