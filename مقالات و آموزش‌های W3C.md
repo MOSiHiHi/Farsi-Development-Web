@@ -102,7 +102,7 @@
 ## ناوبری
 
 - [هدایت کاربران به صفحات ترجمه شده](https://www.w3.org/International/questions/qa-site-conneg.en.html)
-- [با استفاده <select> از لینک به محتوای محلی](https://www.w3.org/International/questions/qa-navigation-select.en.html)
+- [با استفاده `<select>` از لینک به محتوای محلی](https://www.w3.org/International/questions/qa-navigation-select.en.html)
 - [نشان دادن زبان مقصد پیوند](https://www.w3.org/International/questions/qa-link-lang.en.html)
 - [چه زمانی از مذاکره زبان استفاده کنیم](https://www.w3.org/International/questions/qa-when-lang-neg.en.html)
 - [اپاچی MultiViews مذاکره زبان راه اندازی](https://www.w3.org/International/questions/qa-apache-lang-neg.en.html)
