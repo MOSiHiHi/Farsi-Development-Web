@@ -79,7 +79,7 @@
 - [از دست دادن فضای بیدی](https://www.w3.org/International/questions/qa-bidi-space.en.html)
 - [ترتیب بصری یا منطقی متن](https://www.w3.org/International/questions/qa-visual-vs-logical.en.html)
 - [یک ظاهر طراحی شده متن عمودی چینی، ژاپنی، کره ای و مغولی](https://www.w3.org/International/articles/vertical-text/index.en.html)
-- [زبان هایی که از اسکریپت های راست به چپ استفاده می کنند](https://www.w3.org/International/questions/qa-scripts.en.html)-
+- [زبان هایی که از اسکریپت های راست به چپ استفاده می کنند](https://www.w3.org/International/questions/qa-scripts.en.html)
 
 ## یک ظاهر طراحی شده و طرح بندی
 
