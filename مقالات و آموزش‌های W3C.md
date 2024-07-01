@@ -1,4 +1,5 @@
 <div dir="rtl">
+
 # مقالات و آموزش‌ها
 
 شما همچنین می‌توانید منابع را با استفاده از صفحه‌ٔ [تکنیک‌های بین‌المللی‌سازی: تألیف صفحات وب](https://www.w3.org/International/techniques/authoring-html)، که دسترسی دقیق‌تری به اطلاعات را فراهم می‌کند، پیدا کنید.
@@ -126,3 +127,5 @@
 - [وب سایت های تک زبانه در مقابل چند زبانه](https://www.w3.org/International/questions/qa-mono-multilingual.en.html)
 - [وب سایت های بین المللی و چند زبانه](https://www.w3.org/International/questions/qa-international-multilingual.en.html)
 - [خدمت HTML و XHTML](https://www.w3.org/International/articles/serving-xhtml/index.en.html)
+
+</div>
