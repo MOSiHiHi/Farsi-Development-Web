@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" align='right'>
 # مقالات و آموزش‌ها
 
 شما همچنین می‌توانید منابع را با استفاده از صفحه‌ٔ تکنیک‌های بین‌المللی‌سازی: [نوشتن صفحات وب](https://www.w3.org/International/techniques/authoring-html)، که دسترسی دقیق‌تری به اطلاعات را فراهم می‌کند، پیدا کنید.
@@ -79,9 +79,9 @@
 - [از دست دادن فضای بیدی](https://www.w3.org/International/questions/qa-bidi-space.en.html)
 - [ترتیب بصری یا منطقی متن](https://www.w3.org/International/questions/qa-visual-vs-logical.en.html)
 - [یک ظاهر طراحی شده متن عمودی چینی، ژاپنی، کره ای و مغولی](https://www.w3.org/International/articles/vertical-text/index.en.html)
-- [زبان هایی که از اسکریپت های راست به چپ استفاده می کنند](https://www.w3.org/International/questions/qa-scripts.en.html)
+- [زبان هایی که از اسکریپت های راست به چپ استفاده می کنند](https://www.w3.org/International/questions/qa-scripts.en.html)-
 
-- ## یک ظاهر طراحی شده و طرح بندی
+## یک ظاهر طراحی شده و طرح بندی
 
 - [اندازه متن در ترجمه](https://www.w3.org/International/articles/article-text-size.en.html)
 - [تصاویر پس زمینه که محلی سازی را پشتیبانی می کنند](https://www.w3.org/International/questions/qa-resizing-backgrounds.en.html)
@@ -126,3 +126,5 @@
 - [وب سایت های تک زبانه در مقابل چند زبانه](https://www.w3.org/International/questions/qa-mono-multilingual.en.html)
 - [وب سایت های بین المللی و چند زبانه](https://www.w3.org/International/questions/qa-international-multilingual.en.html)
 - [خدمت HTML و XHTML](https://www.w3.org/International/articles/serving-xhtml/index.en.html)
+
+</div>
