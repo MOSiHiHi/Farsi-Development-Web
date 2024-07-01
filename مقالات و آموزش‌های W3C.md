@@ -1,7 +1,7 @@
-<div dir="rtl" align='right'>
+<div dir="rtl">
 # مقالات و آموزش‌ها
 
-شما همچنین می‌توانید منابع را با استفاده از صفحه‌ٔ تکنیک‌های بین‌المللی‌سازی: [تألیف صفحات وب](https://www.w3.org/International/techniques/authoring-html)، که دسترسی دقیق‌تری به اطلاعات را فراهم می‌کند، پیدا کنید.
+شما همچنین می‌توانید منابع را با استفاده از صفحه‌ٔ [تکنیک‌های بین‌المللی‌سازی: تألیف صفحات وب](https://www.w3.org/International/techniques/authoring-html)، که دسترسی دقیق‌تری به اطلاعات را فراهم می‌کند، پیدا کنید.
 
 ## شروع کردن
 
@@ -29,7 +29,7 @@
 - [تنظیم اطلاعات charset در htaccess](https://www.w3.org/International/questions/qa-htaccess-charset.en.html)
 - [بررسی هدرهای HTTP](https://www.w3.org/International/questions/qa-headers-charset.en.html)
 - [بررسی کدبندی نویسه‌ها با استفاده از اعتبارسنج](https://www.w3.org/International/questions/qa-validator-charset-check.en.html)
-- [HTML، XHTML، XML و کدهای کنترل](https://www.w3.org/International/questions/qa-controls.en.html)
+- [کدهای کنترل، HTML ،XHTML و XML](https://www.w3.org/International/questions/qa-controls.en.html)
 - [نویسه‌ها و گلیف‌های گمشده](https://www.w3.org/International/articles/missing-char-glyph/index.en.html)
 - [واحدهای شخصیت تایپوگرافی در اسکریپت‌های پیچیده](https://www.w3.org/International/questions/qa-indic-graphemes.en.html)
 - [مهاجرت به یونیکد](https://www.w3.org/International/articles/unicode-migration/index.en.html)
@@ -45,7 +45,7 @@
 - [کدهای زبان ISO دو حرفی یا سه حرفی](https://www.w3.org/International/questions/qa-lang-2or3.en.html)
 - [چرا از ویژگی زبان استفاده کنیم؟](https://www.w3.org/International/questions/qa-lang-why.en.html)
 - [تنظیم تنظیمات برگزیده زبان در مرورگر](https://www.w3.org/International/questions/qa-lang-priorities.en.html)
-- [xml:lang در طرح سند XML](https://www.w3.org/International/questions/qa-when-xmllang.en.html)
+- [کد `xml:lang` در طرح سند XML](https://www.w3.org/International/questions/qa-when-xmllang.en.html)
 - [برچسب زدن متن بدون زبان](https://www.w3.org/International/questions/qa-no-language.en.html)
 - [نشان دادن زبان مقصد پیوند](https://www.w3.org/International/questions/qa-link-lang.en.html)
 - [نشانه زبان مورد استفاده برای تنظیم محلی](https://www.w3.org/International/questions/qa-accept-lang-locales.en.html)
@@ -71,7 +71,7 @@
 - [نمونه های نشانه گذاری Bidi درون خطی](https://www.w3.org/International/articles/inline-bidi-markup/bidi_examples.en.html)
 - [نحوه استفاده از کنترل یونیکد برای متن بیدی](https://www.w3.org/International/questions/qa-bidi-unicode-controls.en.html)
 - [یونیکد کنترل در مقابل نشانه گذاری برای پشتیبانی از بیدی](https://www.w3.org/International/questions/qa-bidi-controls.en.html)
-- [CSS در مقابل نشانه گذاری برای پشتیبانی از Bidi](https://www.w3.org/International/questions/qa-bidi-css-markup.en.html)
+- [مقایسه‌ٔ CSS در مقابل و Markup (نشانه‌گذاری) برای پشتیبانی از Bidi (متن دوطرفه)](https://www.w3.org/International/questions/qa-bidi-css-markup.en.html)
 - [ارائه RTL از اسکریپت های LTR](https://www.w3.org/International/questions/qa-ltr-scripts-in-rtl.en.html)
 - [کار با نشانه گذاری کد منبع و نمونه های کد برای اسکریپت های RTL](https://www.w3.org/International/questions/qa-bidi-source.en.html)
 - [رشته ها و بیدی](https://www.w3.org/International/articles/strings-and-bidi/index.en.html)
@@ -91,7 +91,7 @@
 - [یک ظاهر طراحی شده روبی](https://www.w3.org/International/articles/ruby/styling.en.html)
 - [یک ظاهر طراحی شده متن عمودی چینی، ژاپنی، کره ای و مغولی](https://www.w3.org/International/articles/vertical-text/index.en.html)
 - [سبکهای قلم & جایگزین قلم](https://www.w3.org/International/articles/typography/fontstyles.en.html)
-- [CSS3 و متن بین المللی](https://www.w3.org/International/articles/css3-text/index.en.html)
+- [متن بین المللی و CSS3](https://www.w3.org/International/articles/css3-text/index.en.html)
 
 ## فرم
 
@@ -126,5 +126,3 @@
 - [وب سایت های تک زبانه در مقابل چند زبانه](https://www.w3.org/International/questions/qa-mono-multilingual.en.html)
 - [وب سایت های بین المللی و چند زبانه](https://www.w3.org/International/questions/qa-international-multilingual.en.html)
 - [خدمت HTML و XHTML](https://www.w3.org/International/articles/serving-xhtml/index.en.html)
-
-</div>
