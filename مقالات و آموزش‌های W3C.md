@@ -36,7 +36,7 @@
 
 ## زبان
 
-- [کار با زبان در HTML (آموزش)](https://www.w3.org/International/tutorials/language-decl/index.en.html)
+- [کار با زبان در HTML (آموزش)](tutorial)
 - [نمایش زبان در HTML](https://www.w3.org/International/questions/qa-html-language-declarations.en.html)
 - [هدرهای HTTP، عناصر متا و اطلاعات زبان](https://www.w3.org/International/questions/qa-http-and-lang.en.html)
 - [انواع اعلان زبان](https://www.w3.org/International/questions/qa-text-processing-vs-metadata.en.html)
@@ -64,7 +64,7 @@
 
 ## جهت متن
 
-- [ایجاد صفحات HTML به زبان عربی، عبری و سایر اسکریپت های راست به چپ (اموزش)](https://www.w3.org/International/tutorials/bidi-xhtml/index.en.html)
+- [ایجاد صفحات HTML به زبان عربی، عبری و سایر اسکریپت های راست به چپ (اموزش)](tutorial)
 - [اصول اولیه Unicode Bidirectional Algorithm](https://www.w3.org/International/articles/inline-bidi-markup/uba-basics.en.html)
 - [نشانهگذاری ساختاری و متن راست به چپ در زنگام](https://www.w3.org/International/questions/qa-html-dir.en.html)
 - [نشانهگذاری درون خطی و متن دوطرفه در زنگام](https://www.w3.org/International/articles/inline-bidi-markup/index.en.html)
@@ -126,5 +126,3 @@
 - [وب سایت های تک زبانه در مقابل چند زبانه](https://www.w3.org/International/questions/qa-mono-multilingual.en.html)
 - [وب سایت های بین المللی و چند زبانه](https://www.w3.org/International/questions/qa-international-multilingual.en.html)
 - [خدمت HTML و XHTML](https://www.w3.org/International/articles/serving-xhtml/index.en.html)
-- 
-</div>
